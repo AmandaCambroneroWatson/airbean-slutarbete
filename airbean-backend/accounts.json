@@ -1,0 +1,433 @@
+{
+  "accounts": [
+    {
+      "user": "Vito",
+      "email": "vitolito@hotmail.com",
+      "userid": "CeLoJykGQy5R2vZTaN6pk"
+    },
+    {
+      "User": "Milad",
+      "email": "milad@yahoo.com",
+      "userid": "IosAsUHPpSNIlaM255nON"
+    },
+    {
+      "User": "Amanda",
+      "email": "amanda@outlook.com",
+      "userid": "bi-REN1dgnCsgRqsPaXpW"
+    },
+    {
+      "item": 1,
+      "title": "Bryggkaffe",
+      "userid": "mikp-WiJ5DwTXmBMB3K1_"
+    },
+    {
+      "username": "Sixten Kaffelöver",
+      "email": "sixten.kaffelover@zocom.se",
+      "userid": "fPM4AdqTDMBpXAEEgJzpC"
+    },
+    {
+      "username": "amanda",
+      "email": "amanda88@yahoo.se",
+      "userid": "qMsLLjpm1HoOWwd_UQA3Q"
+    },
+    {
+      "username": "Amanda",
+      "email": "amanda@hotmail.com",
+      "userid": "8VF3fqj3ET8AuX448Do9S"
+    },
+    {
+      "username": "Mischa",
+      "email": "mischa.orange@gmail.com",
+      "userid": "gxcobqFjUTXGbHi690XR6"
+    },
+    {
+      "username": "Summer",
+      "email": "summer2020@hotmailcom",
+      "userid": "rVAuoB_yEEpVCbnX-stge"
+    },
+    {
+      "username": "Milad",
+      "email": "milad.haghrouhi@gmail.com",
+      "userid": "SJnD0awwSuJHiYGW9iXEs"
+    },
+    {
+      "username": "Vito",
+      "email": "vito1@gmail.com",
+      "userid": "HZkX94TK019s11F_JbquU"
+    },
+    {
+      "username": "",
+      "email": "",
+      "userid": "OP-qU-4zUjHTqu_k2SfLr"
+    },
+    {
+      "username": "Amy",
+      "email": "amy88@outlook.com",
+      "userid": "eXzU41ysdpt_mZ5fSGAJA"
+    },
+    {
+      "username": "Anna",
+      "email": "annaskonto@hotmail.com",
+      "userid": "VeWQi485PGw1rxrbrnwXe"
+    },
+    {
+      "username": "Sandra",
+      "email": "sandraskonto@hotmail.com",
+      "userid": "Ur4sQ4sgkpuIzCkwFkzBx"
+    },
+    {
+      "username": "Alice",
+      "email": "alicekonto@outlook.com",
+      "userid": "lGIYlVwybnq8BDJdMhWv4"
+    }
+  ],
+  "orders": [
+    {
+      "itemId": "7",
+      "title": "Gustav Adolfsbakelse",
+      "orderCreated": "2021-06-15T13:42:55.069Z",
+      "id": "odxs20Titgc0-aqLtj0wc",
+      "eta": 8
+    },
+    {
+      "item": 1,
+      "title": "Bryggkaffe",
+      "orderCreated": "2021-06-15T14:49:24.330Z",
+      "id": "SNcYZhZriAMvpCQ1SrQ_L",
+      "eta": 14
+    },
+    {
+      "itemId": [],
+      "userId": "",
+      "orderCreated": "2021-06-16T12:23:53.864Z",
+      "id": "dbmvsT4CqUtuGjddvn6tb",
+      "eta": 12
+    },
+    {
+      "itemId": [
+        1,
+        6,
+        7
+      ],
+      "userId": "rVAuoB_yEEpVCbnX-stge",
+      "orderCreated": "2021-06-16T13:12:20.809Z",
+      "id": "11WEcBNzHgwbocZRu97ld",
+      "eta": 3
+    },
+    {
+      "itemId": [
+        2,
+        7
+      ],
+      "userId": "SJnD0awwSuJHiYGW9iXEs",
+      "orderCreated": "2021-06-16T13:43:02.491Z",
+      "id": "RbV8IAOaC7cFr4WGbpmx5",
+      "eta": 6
+    },
+    {
+      "itemId": [
+        7
+      ],
+      "userId": "SJnD0awwSuJHiYGW9iXEs",
+      "orderCreated": "2021-06-16T13:43:53.452Z",
+      "id": "RI0F27QODuPN4LRPbRqNw",
+      "eta": 16
+    },
+    {
+      "itemId": [
+        6,
+        7
+      ],
+      "userId": "SJnD0awwSuJHiYGW9iXEs",
+      "orderCreated": "2021-06-16T13:44:36.047Z",
+      "id": "o0hQ2UTVwu4QNP9cTEKrb",
+      "eta": 7
+    },
+    {
+      "itemId": [
+        2,
+        7
+      ],
+      "userId": "SJnD0awwSuJHiYGW9iXEs",
+      "orderCreated": "2021-06-16T13:46:05.038Z",
+      "id": "fFRvdoay7y9TxDD4dSlF3",
+      "eta": 15
+    },
+    {
+      "itemId": [
+        3,
+        7
+      ],
+      "userId": "rVAuoB_yEEpVCbnX-stge",
+      "orderCreated": "2021-06-16T13:48:56.696Z",
+      "id": "1RQ-EYebvkWpUa9wiGPB0",
+      "eta": 14
+    },
+    {
+      "itemId": [
+        1,
+        7
+      ],
+      "userId": "HZkX94TK019s11F_JbquU",
+      "orderCreated": "2021-06-16T15:17:14.096Z",
+      "id": "OX7MXA78-A3tn7lh2hSwe",
+      "eta": 8
+    },
+    {
+      "itemId": [
+        2,
+        7
+      ],
+      "userId": "HZkX94TK019s11F_JbquU",
+      "orderCreated": "2021-06-16T15:17:48.447Z",
+      "id": "LRuH2ijkEBM19PA2ARPtq",
+      "eta": 10
+    },
+    {
+      "itemId": [
+        1,
+        7
+      ],
+      "userId": "OP-qU-4zUjHTqu_k2SfLr",
+      "orderCreated": "2021-06-16T15:20:08.716Z",
+      "id": "UaFltyKSOna2zA7q8y8qJ",
+      "eta": 11
+    },
+    {
+      "itemId": [
+        1,
+        7
+      ],
+      "userId": "OP-qU-4zUjHTqu_k2SfLr",
+      "orderCreated": "2021-06-16T15:24:34.190Z",
+      "id": "FLpv_ORETPYTPVV4sC-yL",
+      "eta": 14
+    },
+    {
+      "itemId": [
+        1,
+        7
+      ],
+      "userId": "OP-qU-4zUjHTqu_k2SfLr",
+      "orderCreated": "2021-06-16T15:24:47.120Z",
+      "id": "W7eDzEibTlSUy_cUQTRAx",
+      "eta": 7
+    },
+    {
+      "itemId": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        7,
+        7,
+        7,
+        7
+      ],
+      "userId": "OP-qU-4zUjHTqu_k2SfLr",
+      "orderCreated": "2021-06-16T15:27:09.460Z",
+      "id": "ZFDyirvBmCeeBawdolsTC",
+      "eta": 15
+    },
+    {
+      "itemId": [],
+      "userId": "",
+      "orderCreated": "2021-06-17T07:35:16.163Z",
+      "id": "JOLwQbnXds8hQOooCls3k",
+      "eta": 6
+    },
+    {
+      "itemId": [],
+      "userId": "",
+      "orderCreated": "2021-06-17T09:17:29.599Z",
+      "id": "W4S9lcw7elkwivxTe6H3N",
+      "eta": 3
+    },
+    {
+      "itemId": [
+        1,
+        7
+      ],
+      "userId": "eXzU41ysdpt_mZ5fSGAJA",
+      "orderCreated": "2021-06-17T10:28:13.334Z",
+      "id": "qF5DeoS5OycNExGpD2ezN",
+      "eta": 14
+    },
+    {
+      "itemId": [
+        1,
+        7
+      ],
+      "userId": "eXzU41ysdpt_mZ5fSGAJA",
+      "orderCreated": "2021-06-17T10:34:36.832Z",
+      "id": "e4_hfhafbO5MKEku7N2CD",
+      "eta": 10
+    },
+    {
+      "itemId": [
+        3,
+        4
+      ],
+      "userId": "VeWQi485PGw1rxrbrnwXe",
+      "orderCreated": "2021-06-17T11:48:55.000Z",
+      "id": "ogg1XwoHzyimpvGiA732H",
+      "eta": 6
+    },
+    {
+      "itemId": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "userId": "lGIYlVwybnq8BDJdMhWv4",
+      "orderCreated": "2021-06-17T15:51:08.352Z",
+      "id": "5EGfDawsko0fP1MNmR6hE",
+      "eta": 13
+    },
+    {
+      "itemId": [],
+      "userId": "",
+      "orderCreated": "2021-06-17T15:54:00.899Z",
+      "id": "DP1h8ZQfvF3CjJ-TLyTy3",
+      "eta": 11
+    },
+    {
+      "itemId": [
+        3
+      ],
+      "orderCreated": "2021-06-17T16:33:11.343Z",
+      "id": "Flk_PJ2WnChatkCFBh3tX",
+      "eta": 16
+    },
+    {
+      "itemId": [
+        1,
+        7
+      ],
+      "userId": "VeWQi485PGw1rxrbrnwXe",
+      "orderCreated": "2021-06-17T18:32:53.927Z",
+      "id": "YiNWybzSCFgzbADx1dn7O",
+      "eta": 12
+    },
+    {
+      "itemId": [
+        1,
+        6,
+        7
+      ],
+      "orderCreated": "2021-06-17T18:51:33.929Z",
+      "id": "djA4kpIpvdatuQPf1ec-T",
+      "eta": 11
+    },
+    {
+      "itemId": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "userId": "8VF3fqj3ET8AuX448Do9S",
+      "orderCreated": "2021-06-17T18:54:00.922Z",
+      "id": "gBg58qaNTym0Iqz-sgIS5",
+      "eta": 7
+    },
+    {
+      "itemId": [
+        1,
+        2,
+        5,
+        7
+      ],
+      "orderCreated": "2021-06-17T21:04:40.512Z",
+      "id": "ON-KCFgy78VBpp4CvjhS9",
+      "eta": 3
+    },
+    {
+      "itemId": [
+        1,
+        2,
+        7
+      ],
+      "orderCreated": "2021-06-17T21:06:07.895Z",
+      "id": "MsnyDWa5rta8DcDJ6-tma",
+      "eta": 3
+    },
+    {
+      "itemId": [
+        1,
+        2,
+        7
+      ],
+      "orderCreated": "2021-06-17T21:08:10.195Z",
+      "id": "GEs-2DQ57lVmxQ2yZ4Mjp",
+      "eta": 14
+    },
+    {
+      "itemId": [
+        1,
+        2,
+        3,
+        7
+      ],
+      "orderCreated": "2021-06-17T21:12:12.497Z",
+      "id": "VPWRvOHIifBSv5Pqw7pqq",
+      "eta": 4
+    },
+    {
+      "itemId": [
+        3,
+        4
+      ],
+      "orderCreated": "2021-06-17T21:14:58.072Z",
+      "id": "dKQ6UysFglRAgPUpBWymG",
+      "eta": 13
+    },
+    {
+      "itemId": [
+        1,
+        2,
+        7
+      ],
+      "userId": "HZkX94TK019s11F_JbquU",
+      "orderCreated": "2021-06-17T21:15:36.115Z",
+      "id": "Htu6OifRRmCD3zZ0GKPAy",
+      "eta": 14
+    },
+    {
+      "itemId": [
+        1
+      ],
+      "orderCreated": "2021-06-17T21:16:15.656Z",
+      "id": "xYtid5O0ps1pmmQzyxBx1",
+      "eta": 3
+    },
+    {
+      "itemId": [
+        1,
+        2,
+        7
+      ],
+      "userId": "SJnD0awwSuJHiYGW9iXEs",
+      "orderCreated": "2021-06-17T21:18:13.071Z",
+      "id": "eEgI8qemyQa2QlRNrxlQi",
+      "eta": 5
+    },
+    {
+      "itemId": [
+        1,
+        2
+      ],
+      "orderCreated": "2021-06-17T21:18:40.967Z",
+      "id": "mZgEO2j0QeDG5hjlgmKMJ",
+      "eta": 14
+    }
+  ]
+}
